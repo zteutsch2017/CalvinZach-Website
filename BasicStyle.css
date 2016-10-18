@@ -1,16 +1,17 @@
-body {
 
-	background-color: black;
-
-	color: white;
-
-}
 
 h1 {
 
-	color: pink;
+	color: lightblue;
 	text-decoration: underline;
 	
+}
+
+body {
+
+	background-color: black;
+	color: white;
+
 }
 
 p {
@@ -54,12 +55,54 @@ h1 {
 	
 }
 
-object.fixed {
+ul.navbar {
 
 	position: fixed;
     top: 0;
     right: 0;
 
+    list-style-type: none;
+    margin: 10px;
+    padding: 5px 5px;
+    width: 200px;
+    background-color: pink;
+
+    border-style: solid;
+    border-width: 5px;
+    border-color: white;
+
 }
+
+li.navbar a {
+
+	color: black;
+	display: block;
+	text-decoration: none;
+	display: block;
+	padding: 8px 16px;
+	
+
+}
+
+
+li.navbar a:active {
+
+	color: black;
+	display: block;
+	text-decoration: none;
+
+	
+}
+
+li.navbar a:hover {
+
+	color: white;
+	display: block;
+	text-decoration: none;
+
+	
+}
+	
+
 
 
