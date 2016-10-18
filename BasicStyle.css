@@ -15,5 +15,30 @@ h1 {
 	
 }
 
+p {
+
+	margin-top: 35px;
+	margin-bottom: 35px;
+
+}
+
+a:link {
+
+	color: pink;
+	background-color: transparent;
+	text-decoration: underline;
+
+}
+
+a:active {
+
+	color: pink;
+	background-color: transparent;
+	text-decoration: underline;
+
+
+
+}
+
 
 
