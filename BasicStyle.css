@@ -3,9 +3,6 @@ body {
 	background-color: black;
 
 	color: white;
-<<<<<<< HEAD
-
-
 
 }
 
@@ -36,10 +33,17 @@ a:active {
 	color: pink;
 	background-color: transparent;
 	text-decoration: underline;
-=======
->>>>>>> 8a51f725eb769d96b70bfc67f8a1ab51e04e1daf
 
 
+
+
+}
+
+a:visited {
+
+	color: pink;
+	background-color: transparent;
+	text-decoration: underline;
 
 }
 
