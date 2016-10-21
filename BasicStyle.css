@@ -70,12 +70,12 @@ ul.navbar {
 }
 
 
-li.navbar {
+ul.navbar li {
 
 	float: left;
 }
 
-li.navbar a {
+ul.navbar li a {
 
 	display: block;
     color: black;
@@ -87,7 +87,7 @@ li.navbar a {
 }
 
 
-li.navbar a:active {
+ul.navbar li a:active {
 
 	color: black;
 	display: block;
