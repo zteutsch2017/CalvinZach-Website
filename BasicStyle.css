@@ -59,13 +59,15 @@ ul.navbar {
     right: 0;
 
     list-style-type: none;
-    margin: 0;
     padding: 0;
+    margin: 0;
     
     background-color: darkgrey;
     overflow: hidden;
     border-style: solid;
     border-color: white;
+
+
 
 }
 
@@ -73,6 +75,7 @@ ul.navbar {
 ul.navbar li {
 
 	float: left;
+	
 }
 
 ul.navbar li a {
