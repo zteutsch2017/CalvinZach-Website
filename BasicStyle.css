@@ -109,7 +109,7 @@ ul.navbar li a:hover {
 
 table.shop {
 
-	position: relative;
+	position: absolute;
 	left: 25%;
 
 }
@@ -123,6 +123,30 @@ table.shop tr td {
 
 	text-align: center;
 }
+
+table.gal {
+
+	position: absolute;
+	left: 25%;
+	display: block;
+	width: 100%;
+
+
+}
+
+table.gal tr td {
+	text-align: center;
+}
+
+table.gal tr td.img {
+
+
+	border: solid;
+	border-color: black;
+	padding: 3px;
+
+}
+
 
 
 
