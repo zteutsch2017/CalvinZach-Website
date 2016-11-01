@@ -126,16 +126,16 @@ table.shop tr td {
 
 table.gal {
 
-	position: absolute;
-	left: 25%;
-	display: block;
-	width: 100%;
+	position: relative;
+	left: 20%;
+
 
 
 }
 
 table.gal tr td {
 	text-align: center;
+	padding: 25px;
 }
 
 table.gal tr td.img {
@@ -146,6 +146,12 @@ table.gal tr td.img {
 	padding: 3px;
 
 }
+
+button {
+	background-color: darkgrey;
+}
+
+
 
 
 
