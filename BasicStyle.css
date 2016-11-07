@@ -107,16 +107,13 @@ ul.navbar li a:hover {
 table.shop {
 
 	position: absolute;
-	left: 25%;
+	left: 35%;
 
 }
 
 table.shop tr td {
 
 	padding: 15px;
-	border: solid;
-	border-color: black;
-	border-width: 3px;
 
 	text-align: center;
 }
